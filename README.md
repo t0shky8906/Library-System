@@ -17,5 +17,4 @@ LibraSys is an open-source library management system designed to streamline oper
 - Monitor and manage fines accrued by users.
 
 ### LIBRARY FRONTPAGE:
-  
-![Uploading lib.PNG…]()
+![lib](https://github.com/t0shky8906/Library-System/assets/171158241/9d4653d1-8cb4-4fae-a207-c3788f7e93ca)
