@@ -16,3 +16,6 @@ LibraSys is an open-source library management system designed to streamline oper
 - Easily manage catalog by adding, deleting, or editing book records.
 - Monitor and manage fines accrued by users.
 
+### LIBRARY FRONTPAGE:
+  
+![Uploading lib.PNG…]()
