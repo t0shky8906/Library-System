@@ -1,6 +1,6 @@
-# LibraSys: Your Comprehensive Library Management System
+# PageTurner: Your Comprehensive Library Management System
 
-LibraSys is an open-source library management system designed to streamline operations and enhance the user experience for both patrons and administrators. With LibraSys, you can efficiently manage library resources, handle user requests, and maintain oversight over library activities.
+PageTurner is an open-source library management system designed to streamline operations and enhance the user experience for both patrons and administrators. With PageTurner, you can efficiently manage library resources, handle user requests, and maintain oversight over library activities.
 
 ## Features
 
